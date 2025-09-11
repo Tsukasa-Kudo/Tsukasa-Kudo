@@ -2,9 +2,8 @@
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+- **Languages**: HTML, CSS, JavaScript, Python,
+- **Tools**: Git , VS Code
 - 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsukasa-Kudo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
